@@ -36,3 +36,5 @@ try {
 
 ## What is This?
 This project is created for fun (and out of boredom). Rust's Result type is a life changer
+
+This code more than likely has some issues. If you found yourself here, you're lost already. Don't use this code unless you modify it
